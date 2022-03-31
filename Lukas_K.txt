@@ -1,4 +1,1 @@
-Hello World!
-Lukas here.
-Have a rice day.
-<:
+Hello git from lukas
